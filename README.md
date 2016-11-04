@@ -1,2 +1,3 @@
 # hello-world
-Standard
+
+This should be a more accurate hello.
